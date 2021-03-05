@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990698048809",
+    "project_id": "hecco-97178",
+    "storage_bucket": "hecco-97178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990698048809:android:61d8a6752ecb0138fffb38",
+        "android_client_info": {
+          "package_name": "com.example.hecco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990698048809-f0p32eebm0f7eqee8eps5nnpbok0nc8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTrkXhClqthXml2I8v_WH4yoOctWT6mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990698048809-f0p32eebm0f7eqee8eps5nnpbok0nc8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

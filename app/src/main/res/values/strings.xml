@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hecco</string>
+    <string name="phone_number">1.Please enter your phone number :)</string>
+    <string name="rating">2.How would you rate your current experience with Prolife</string>
+    <string name="actions">3.How would you extend your valuable support to Prolife Team</string>
+    <string name="google">Give star rating on Google</string>
+    <string name="referral">Refer to friends and family</string>
+</resources>
